@@ -1,0 +1,241 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+.ban{
+    height: 120px;
+    background-color: rgb(128, 128, 128);
+    justify-content: space-evenly;
+color: rgba(255, 0, 0, 0.753);
+display: flex;
+}
+
+.bananza{
+    font-size: 80px;
+    color: rgba(255, 0, 0, 0.753);
+    font-weight: 900;
+
+}
+.r{
+  font-size: 40px;
+  color: rgba(255, 0, 0, 0.753);
+  font-weight: 700;
+  margin: 0px;
+  padding: 0px;
+
+
+}
+
+.paint{
+    font-size: 20px;
+    color: rgba(255, 0, 0, 0.753);
+   display: flex;
+   align-items: center;
+   font-weight: 700;
+}
+.intro{
+    height: 60px;
+    color:rgba(255, 0, 0, 0.753) ;
+    font-weight: 900;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-size: 23px;
+
+
+}
+.ndustria{
+    height: 60px;
+    color:rgba(255, 0, 0, 0.753) ;
+    font-weight: 900;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-size: 23px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.tm{
+    font-size: 12px;
+
+}
+.auto-spray-booth{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+    .auto-spray-booth img{
+        height: 100%;
+        width: 100%;
+    }
+
+
+.booth{
+    height: 150px;
+    width: fit-content;
+    background-color: white;
+color: rgba(255, 0, 0, 0.753);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.pb{
+    color: rgba(255, 0, 0, 0.753);
+font-size: 50px;
+font-weight: bold;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.hr{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+.commercial{
+    color: rgba(255, 0, 0, 0.753);
+font-size: 30px;
+font-weight: 700;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.mix{
+    height: 900px;
+    width: 851x;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-grow: 1; 
+    margin-left: 80px;
+    margin-right: 80px;   
+
+}
+/**div1**/
+
+.industrial{
+    height: 900px;
+    margin-left: 0px;
+    margin-right: 25px;
+    width: 397px;
+}
+
+.D1{
+    font-size:25px;
+    font-weight: 700;
+    display: flex;
+    font-display: ;right: 10px;
+
+}
+
+.make-up{
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-display: ;right;
+    line-height: 40px;
+}
+
+/**div2**/
+.c1{
+margin-left: 25px;
+margin-right: 25px;
+height: 900px;
+width: 397px;
+}
+
+.heading1{
+    font-size: 25px;
+    font-weight: 900;
+    color: rgba(255, 0, 0, 0.753);
+    font-weight: 900;
+}
+.c2{
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+
+}
+ .a1{
+width: 400px;
+height: 20px;
+padding: 10px;
+margin-bottom: 15px;
+ }
+
+ .input:placeholder{
+    font-size: 10px;
+ }
+
+ /**div3**/
+
+ .div3{
+    height: 900px;
+    width: 397px;
+    margin-left: 25px;
+ }
+
+.last{
+    height: 500px;
+background-color: rgb(128, 128, 128);
+border-top: 0.5px solid black;
+
+}
+
+.icon{
+height: 120px;
+ 
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.lp{
+    height: 15px;
+  
+font-size: 10px;
+ 
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.lp2{
+    height: 80px;
+    
+    font-size: 2rem;
+    color: rgba(255, 0, 0, 0.753);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.lp3{
+    height: 15px;
+  
+    font-size: 10px;
+     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
